@@ -2,7 +2,7 @@
 using namespace std;
 main()
 {
-        float M ,N ,totalcoins;
+        float M ,N ,totalcoins;                            /*M = vegetable price per kg && N = fruit price per kg */
         int totalveg ,totalfruit, rupees;
         cout << "Enter vegetable price per kilogram (in coins): " << endl;
         cin >> M;
