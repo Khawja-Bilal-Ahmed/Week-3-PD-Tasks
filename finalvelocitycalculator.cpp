@@ -2,7 +2,7 @@
 using namespace std;
 main()
 {
-         int vi,vf,a,t ;
+         int vi,vf,a,t ;                                              /* vi= initial velocity , vf = final velocity, a = acceleration , t = time*/
          cout << "Enter initial velocity (m/s):" << endl;
          cin >> vi;
          cout << "Enter acceleration (m/s^2): " << endl;
